@@ -1,5 +1,5 @@
 import { describe, expect, test } from "vitest";
-let text = "hello";
+let count = 0;
 
 const person = {
   isActive: true,
